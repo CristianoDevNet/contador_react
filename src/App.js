@@ -14,7 +14,7 @@ class App extends Component {
           <p>Iniciando com ReactJS</p>
           <p>
             Get started, edit <code>src/App.js</code> and save to
-            reload.
+            reload !!
           </p>
         </div>
       </div>
